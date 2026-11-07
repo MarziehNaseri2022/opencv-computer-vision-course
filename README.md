@@ -1,1 +1,1 @@
-# Computer.Vision
+# opencv-computer-vision-course
